@@ -1,7 +1,7 @@
 body {
   background: rgba(0, 0, 0, 0.9);
   margin: 0;
-  color: rgb(255, 0, 0);
+  color: rgb(255, 122, 34);
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -85,8 +85,8 @@ body {
 }
 
 .bg-light {
-  background: rgb(77, 75, 75);
-  color: rgb(165, 165, 165);
+  background: rgb(63, 62, 62);
+  color: rgb(114, 114, 114);
   margin: auto;
 }
 
